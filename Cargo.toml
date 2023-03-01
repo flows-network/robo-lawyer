@@ -1,0 +1,12 @@
+[package]
+name = "robo-lawyer"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+path = "src/lib.rs"
+crate-type = ["cdylib"]
+
+[dependencies]
+slack-flows = "0.2"
+openai-flows = "0.1"
