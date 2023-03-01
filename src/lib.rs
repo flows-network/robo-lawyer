@@ -8,7 +8,7 @@ pub fn run() {
             prompt: "I want you to act as my legal advisor. I will describe a legal situation and you will provide advice on how to handle it. You should only reply with your advice, and nothing else. Do not write explanations. My request is \"".to_owned() + &sm.text + "\"",
             ..Default::default()
         };
-        let r = create_completion("Robo Lawyer", cr);
+        let r = create_completion("RoboLawyer", cr);
         r.iter().for_each(|c| {
             send_message_to_channel("secondstate", "robo-lawyer", c.to_string());
         });
