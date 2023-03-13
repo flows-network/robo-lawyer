@@ -1,4 +1,4 @@
-# Robo Lawyer for your slack channel, powered by ChatFPT
+# Robo Lawyer for your slack channel, powered by ChatGPT
 
 [Deploy this function on flows.network](#deploy-chatgpt-slack-bot-on-your-slack-channel), and you will get a Slack bot that uses ChatGPT to respond to **every legal question** in your Slack workspace automatically.
 
