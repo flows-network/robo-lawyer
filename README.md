@@ -3,11 +3,10 @@
 [Deploy this function on flows.network](#deploy-chatgpt-slack-bot-on-your-slack-channel), and you will get a Slack bot that uses ChatGPT to respond to **every legal question** in your Slack workspace automatically.
 
 
-See the following example
-
-<img width="711" alt="image" src="https://user-images.githubusercontent.com/45785633/224661731-f0164571-57f4-4ae5-a7a2-87264ea3692a.png">
+See the following example.
 
 
+<div style="text-align:center"><img src="https://user-images.githubusercontent.com/45785633/224661731-f0164571-57f4-4ae5-a7a2-87264ea3692a.png" /></div>
 
 > Please note, the answer from CHatGPT is only for reference.
 
