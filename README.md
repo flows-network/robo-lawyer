@@ -32,7 +32,9 @@ Fork [this repo](https://github.com/flows-network/robo-lawyer/) and go to flows.
 
 5. Fill in the required Environment Variables. In this example, we have three variables. One is `workspace`. Fill in the Slack workspace Name you want to connect here. The second one is `channel`. Fill in the Slack channel under the Slack workspace you just entered. The last one is `openai_key_name`. Fill in the name you want to name your OpenAI Key.
 
-<img width="688" alt="image" src="https://user-images.githubusercontent.com/45785633/224656401-2a554e1b-8960-4995-ba69-f4e0637d0c63.png">
+<div style="text-align:center"><img src="https://user-images.githubusercontent.com/45785633/224656401-2a554e1b-8960-4995-ba69-f4e0637d0c63.png" /></div>
+
+> Please note, the answer from CHatGPT is only for reference.
 
 
 6. Name your flow, and click on "Turn on and Save" button to deploy the flow function.
