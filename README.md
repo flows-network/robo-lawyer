@@ -8,7 +8,7 @@ See the following example.
 
 <div style="text-align:center"><img src="https://user-images.githubusercontent.com/45785633/224661731-f0164571-57f4-4ae5-a7a2-87264ea3692a.png" /></div>
 
-> Please note, the answer from CHatGPT is only for reference.
+> Please note, the answer from ChatGPT is only for reference.
 
 ## Prerequisite 
 
