@@ -9,5 +9,5 @@ crate-type = ["cdylib"]
 
 [dependencies]
 slack-flows = "0.2"
-openai-flows = "0.2"
+openai-flows = "0.3"
 dotenv = "0.15.0"
